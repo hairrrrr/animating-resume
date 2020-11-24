@@ -2,15 +2,15 @@
 
 > This is my resume
 
-[预览](https://jirengu-inc.github.io/animating-resume/public/)
+[预览](https://www.cctechblog.cn/animating-resume/public/)
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone git@github.com:jirengu-inc/animating-resume.git // 可以先 fork 然后 git clone 自己的仓库
 cd animating-resume
 npm install
-npm run dev
+npm run dev // 这一步可以跳过
 ```
 
 ## 部署方法
@@ -27,4 +27,14 @@ npm run dev
     ```
 
 3. 开启 GitHub Pages 功能
+
+
+## 撰写你的简历
+
+修改：
+
+- src/App.vue   
+- src/Mobile.vue
+
+两个都要修改，手机和电脑对应不同的格式
 
