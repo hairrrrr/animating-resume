@@ -114,7 +114,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `王小川
+        fullMarkdown: `Shepard Wang
 ----
 
 西安工业大学 软件工程专业
