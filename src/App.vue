@@ -130,16 +130,14 @@ html{
 我的项目：
 ----
 
-1. 
-2. 
-3. 
-4. 
+1. [C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)
+2. [C-DataStructure](https://github.com/hairrrrr/C-DataStructure)
 
 链接
 ----
 
-* [GitHub]()
-* [我的文章]()
+* [GitHub](https://github.com/hairrrrr)
+* [我的文章](https://www.cctechblog.cn/)
 
 > 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
 
